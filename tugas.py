@@ -63,3 +63,4 @@ for l, detail in data_panen.items():
         print(f"{l} ({detail['nama_lokasi']}): Dalam Kondisi Baik")
 
 print("Farras Abdillah")
+print("152023097")
