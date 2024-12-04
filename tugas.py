@@ -65,3 +65,4 @@ for l, detail in data_panen.items():
 print("Farras Abdillah")
 print("152023097")
 print("Pemdas")
+print("Rekayasa Perangkat Lunak")
